@@ -4,7 +4,7 @@ import './index.css';
 import MyList from './MyList';
 import * as serviceWorker from './serviceWorker';
 
-const todos = ['Buy more ice cream', 'Eat all ice cream', 'Go to the gym'];
+const todos = ["Buy some cookies and cream ice cream", 'Buy more ice cream', 'Eat all ice cream', 'Go to the gym'];
 
 ReactDOM.render(
   <React.StrictMode>
